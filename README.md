@@ -1,5 +1,7 @@
 # aws-walkthrough
 
+THIS IS NOT A WEBSITE I CREATED BUT i elarned through NextWork with their provided materials. I am just learning to use S3 and hosting their website.
+
 Alwatys pick a region that is closest to one while creating an S3 bucket. 
 
 ACL's (access control lists) are set of rules on who has what permissions on what resource. Also it allows one to decdie who controls nd can do what with objects into a buket.
